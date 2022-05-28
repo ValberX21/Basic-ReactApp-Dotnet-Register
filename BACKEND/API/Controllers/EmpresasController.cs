@@ -10,7 +10,6 @@ using System.Data.SqlClient;
 using Microsoft.Extensions.Configuration;
 using API.Models;
 
-
 namespace API.Controllers
 {
     [Route("api/[controller]")]
